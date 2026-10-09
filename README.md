@@ -1,7 +1,7 @@
 # test-3239188-simple-stock-flow-doc
 
 > **Reto SDD · Ficha ADSO 3239188**
-> Entrega: **hoy 8 de octubre de 2026, a las 9:30 p. m. (hora Colombia)**. Cuenta regresiva: https://claude.ai/artifact/3ja3TMwGnprBV6QCcyAruT
+> Entrega: **hoy 8 de octubre de 2026, a las 10:50 p. m. (hora Colombia)**. Cuenta regresiva: https://claude.ai/artifact/3ja3TMwGnprBV6QCcyAruT
 
 Este reto **no se hace en el repositorio principal de su proyecto**. Se hace en un **fork de este repositorio**.
 
@@ -27,7 +27,7 @@ La carpeta `06-data/` **no se escribe**: es el modelo que se les entrega.
 2. Trabajen en su fork. Una carpeta por documento, con los nombres de la tabla de arriba.
 3. Cada afirmación debe poder rastrearse al modelo de datos (cite la sección, por ejemplo «§2.3» o «FK-2»).
    Si algo no sale del modelo, márquenlo como **supuesto**.
-4. Lo que cuenta es el **último commit anterior a las 9:30 p. m.** Lo que llegue después no se revisa.
+4. Lo que cuenta es el **último commit anterior a las 10:50 p. m.** Lo que llegue después no se revisa.
 5. Se evalúa el desempeño con SDD: cómo se lee, se interpreta y se aplica la especificación. No el volumen de texto.
 
 ## En qué semana va cada equipo
